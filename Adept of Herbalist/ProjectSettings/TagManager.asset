@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Ghost
+  - Destroyer
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - Midground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Player
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backgroundbushes
+    uniqueID: 3663948473
+    locked: 0
+  - name: Midground
+    uniqueID: 2803198057
+    locked: 0
+  - name: Foreground
+    uniqueID: 3715210649
+    locked: 0
+  - name: Background
+    uniqueID: 1211067123
+    locked: 0
+  - name: particle and lights
+    uniqueID: 2668180821
+    locked: 0
